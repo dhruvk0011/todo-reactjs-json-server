@@ -4,7 +4,7 @@
 A todo app which makes use of *React Hooks (useState and useRef)* with *Json-server* to server the json file as a database.
 ---
 ## How to run
-to run the `json-server`
+To run the `json-server`
 ```
 npx json-server -p 3500 -w data/db.json
 ```
